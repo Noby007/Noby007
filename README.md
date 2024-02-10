@@ -1,3 +1,4 @@
+![github](https://github.com/Noby007/nobyhckingtools/assets/87512608/e36988f2-15ac-4e4c-8525-fa8d8ec13a2e)
 # 💫 About Me:
 Hi there, I'm NOBYYYYY! 👋<br><br>🤖 I'm currently working on a Telegram bot project.<br><br>👯 I’m looking to collaborate on machine learning projects.<br><br>🌱 I’m currently learning Python , Linux<br><br>💬 Ask me about anything related to Python, machine learning, or chatbots!<br><br>⚡ Fun fact: I once built a chatbot that could tell jokes in 5 different languages!
 
