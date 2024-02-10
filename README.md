@@ -1,4 +1,5 @@
-![github](https://github.com/Noby007/nobyhckingtools/assets/87512608/e36988f2-15ac-4e4c-8525-fa8d8ec13a2e)
+![githubmeme](https://github.com/Noby007/ndbotz/assets/87512608/69d051e6-d7ba-4103-bdae-03b6568bba00)
+
 # 💫 About Me:
 Hi there, I'm NOBYYYYY! 👋<br><br>🤖 I'm currently working on a Telegram bot project.<br><br>👯 I’m looking to collaborate on machine learning projects.<br><br>🌱 I’m currently learning Python , Linux<br><br>💬 Ask me about anything related to Python, machine learning, or chatbots!<br><br>⚡ Fun fact: I once built a chatbot that could tell jokes in 5 different languages!
 
